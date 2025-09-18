@@ -1,10 +1,10 @@
 ## Hi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?letterSpacing=0.15rem&duration=4000&pause=2000&color=10B4F7&vCenter=true&width=435&height=40&lines=My+name+is+Eug%C3%AAnio+Jefferson;I'm+a+Software+Engineer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?letterSpacing=0.15rem&duration=4000&pause=2000&color=10B4F7&vCenter=true&width=435&height=40&lines=My+name+is+Eug%C3%AAnio+Jefferson;I'm+a+Software+Engineer)
 
 I'm passionate about developing systems that solve real-world problems. With a technical background in IT and currently studying Software Engineering, I seek to apply my knowledge to create efficient and scalable systems.
 
-<a href="https://www.linkedin.com/in/eugenio-jefferson/?locale=en_US" >
+<a href="https://www.linkedin.com/in/eugenio-jefferson/?locale=en_US">
 <img alt="Linkedin: eugenio-jefferson" align="left" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
@@ -87,3 +87,13 @@ I'm passionate about developing systems that solve real-world problems. With a t
 <img alt="PyCharm" align="left" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 
 <br clear="both">
+
+<br>
+
+## Statistics
+
+<div align="center">
+  <a href="https://github.com/eugenio-jefferson">
+    <img src="https://streak-stats.demolab.com?user=eugenio-jefferson&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"/>
+  </a>
+</div>
