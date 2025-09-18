@@ -9,7 +9,7 @@ I'm passionate about developing systems that solve real-world problems. With a t
 </a>
 
 <a href="mailto:eugeniojefferson@proton.me">
-<img alt="Email: eugeniojefferson@proton.me" align="left" height="40" width="40" src="https://private-user-images.githubusercontent.com/108886088/490751413-d53c9867-3fa5-4783-a870-5e4978f53c0a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgxNDEwNDksIm5iZiI6MTc1ODE0MDc0OSwicGF0aCI6Ii8xMDg4ODYwODgvNDkwNzUxNDEzLWQ1M2M5ODY3LTNmYTUtNDc4My1hODcwLTVlNDk3OGY1M2MwYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkxN1QyMDI1NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNDBiOWVmYTg3NGMzMGM1NmExMzJkM2RiYzYwNmY5MjVmOTNjNTEyOGZjNjVlYTM3ZWZhNmExY2I1MDgxNjU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.eppA70YgTCMzxUGh2qybk0GsCy7Nv97NmqAeV1v6PNE">
+<img alt="Email: eugeniojefferson@proton.me" align="left" height="40" width="40" src="https://github.com/user-attachments/assets/d53c9867-3fa5-4783-a870-5e4978f53c0a">
 </a>
 
 <br clear="both">
@@ -94,6 +94,10 @@ I'm passionate about developing systems that solve real-world problems. With a t
 
 <div align="center">
   <a href="https://github.com/eugenio-jefferson">
-    <img src="https://streak-stats.demolab.com?user=eugenio-jefferson&locale=en&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"/>
+    <img src="https://streak-stats.demolab.com?user=eugenio-jefferson&theme=algolia&hide_border=true" alt="eugenio-jefferson's GitHub Streak" height="220"/>
+  </a>
+  
+  <a href="https://github.com/eugenio-jefferson">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio-jefferson&theme=algolia&show_icons=true&hide_border=true&layout=pie" alt="eugenio-jefferson's GitHub Stats" height="350"/>
   </a>
 </div>
