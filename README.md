@@ -94,10 +94,13 @@ I'm passionate about developing systems that solve real-world problems. With a t
 
 <div align="center">
   <a href="https://github.com/eugenio-jefferson">
-    <img src="https://streak-stats.demolab.com?user=eugenio-jefferson&theme=algolia&hide_border=true" alt="eugenio-jefferson's GitHub Streak" height="220"/>
+    <img src="https://streak-stats.demolab.com?user=eugenio-jefferson&theme=algolia&hide_border=true" alt="eugenio-jefferson's GitHub Streak" height="220" align="center"/>
   </a>
+
+  <br>
+  <br>
   
   <a href="https://github.com/eugenio-jefferson">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio-jefferson&theme=algolia&show_icons=true&hide_border=true&layout=pie" alt="eugenio-jefferson's GitHub Stats" height="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio-jefferson&theme=algolia&show_icons=true&hide_border=true&layout=pie" alt="eugenio-jefferson's GitHub Stats" height="350" align="center"/>
   </a>
 </div>
